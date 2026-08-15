@@ -19,7 +19,9 @@
 - C
 - Git & GitHub
 - Python (Coming Soon)
-
+  SQL
+-html
+SQLit
 ## Connect with me
 - GitHub: https://github.com/mnt2933-gif
 
