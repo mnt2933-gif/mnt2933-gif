@@ -36,24 +36,16 @@ controls. Clean, structured, and fully documented.
 
 ## 🎯 Currently Working On
 
-- ✅ Harvard CS50x (Week 7 - SQL)
-- 📖 Building my first web product for Libyan market
+- ✅ Completed **Harvard CS50x** (Introduction to Computer Science)
+- 🚀 Currently studying **CS50’s Introduction to Databases with SQL**
 - 🌍 Preparing for international tech opportunities
 
 ---
 
 ## 📫 Let's Connect
 
-[
-
-![LinkedIn](coming soon)
-
-]()
-[
-
-![Email](mnt11122006@gmail.com)
-
-]()
+- **Email:** mnt11122006@gmail.com
+- **LinkedIn:** [Coming Soon]
 
 ---
 
