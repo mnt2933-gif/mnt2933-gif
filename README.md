@@ -1,41 +1,61 @@
-# Hi, I'm Menna Khashan 👋
+# Menna Khashan 👩‍💻
 
-🎓 First-year Computer Science student.
+**Computer Science Student** | Builder | Problem Solver
 
-💻 Currently learning:
-- Java
-- Harvard CS50
-- Problem Solving
+I'm a first-year CS student at Al-Aqsa University,
+self-teaching through Harvard's CS50 curriculum and 
+building real projects that solve real problems.
+Originally from Gaza, currently based in Libya —
+turning challenges into code, one commit at a time.
 
-🎯 Goals for 2026
-- Complete CS50
-- Build professional Java projects
-- Solve 100+ HackerRank problems
-- Start LeetCode
-- Participate in programming contests
+---
 
-## Technologies I'm Learning
-- Java
-- C
-- Git & GitHub
-- Python (Coming Soon)
-  SQL
--html
-SQLit
-## Connect with me
-- GitHub: https://github.com/mnt2933-gif
+## 🛠️ What I Work With
 
-<!--
-**mnt2933-gif/mnt2933-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:** Java · C · Python  
+**Web:** Flask · HTML · Bootstrap  
+**Databases:** SQL · SQLite · PostgreSQL  
+**Tools:** Git · GitHub · VS Code · NetBeans
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### 🛒 [Store Catalog - Libya](https://github.com/mnt2933-gif/store-project)
+A full-stack web catalog built for local phone and 
+laptop shops in Libya. Features product management,
+WhatsApp integration, and a clean customer interface.
+Built with Flask, SQLite/Supabase, and Bootstrap.
+
+### 🏦 [Banking System](https://github.com/mnt2933-gif/Java-Banking-System)
+A Java OOP console application with secure account 
+management, balance validation, and transaction 
+controls. Clean, structured, and fully documented.
+
+---
+
+## 🎯 Currently Working On
+
+- ✅ Harvard CS50x (Week 7 - SQL)
+- 📖 Building my first web product for Libyan market
+- 🌍 Preparing for international tech opportunities
+
+---
+
+## 📫 Let's Connect
+
+[
+
+![LinkedIn](coming soon)
+
+]()
+[
+
+![Email](mnt11122006@gmail.com)
+
+]()
+
+---
+
+*"The best way out is always through."*
+— Robert Frost
